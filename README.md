@@ -1,4 +1,4 @@
-﻿# Task Manager System
+# Task Manager System
 
 Sistema de administracion de tareas para equipos de trabajo desarrollado bajo arquitectura empresarial, con una API en .NET 10 y un cliente responsivo en Angular 20. Todo el entorno se encuentra completamente dockerizado para facilitar el despliegue local rapido.
 
@@ -55,8 +55,8 @@ El entorno incluye toda la infraestructura requerida. Solo se necesita ejecutar 
 
 1. Clonar e ir al directorio raiz del proyecto:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd TaskManager
+   git clone https://github.com/EdwardSaints/TaskManagerPrueba.git
+   cd TaskManagerPrueba
    ```
 
 2. Levantar el entorno de Docker:
